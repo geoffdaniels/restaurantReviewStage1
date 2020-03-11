@@ -13,6 +13,7 @@ self.addEventListener('install', function (event) {
                 './js/main.js',
                 './js/restaurant_info.js',
                 './serviceWorker.js',
+                './sw.js',
                 './img/1.jpg',
                 './img/2.jpg',
                 './img/3.jpg',
